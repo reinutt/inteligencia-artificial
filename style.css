@@ -6,8 +6,7 @@
     --cor-texto: #D7F9FF;
   
 }
-
-  body { 
+body { 
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     display: flex;
@@ -21,8 +20,7 @@
     max-width: 600px;
     text-align: center;
     padding: 20px;
-  
-}
+  }
 
 h1{
     color: var(--cor-destaque);
